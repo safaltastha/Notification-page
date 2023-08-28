@@ -1,0 +1,215 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(210, 60%, 98%);
+}
+.container {
+  width: 700px;
+  height: 530px;
+  margin: 50px auto;
+  background-color: white;
+  border: 2px solid white;
+  font-family: "Plus Jakarta Sans";
+}
+
+.header {
+  display: flex;
+  margin-top: 20px;
+}
+strong {
+  color: black;
+}
+.strong1 {
+  color: hsl(219, 12%, 42%);
+}
+.strong2 {
+  color: hsl(219, 85%, 26%);
+}
+p {
+  font-size: 16px;
+  color: hsl(219, 12%, 42%);
+}
+.p1 {
+  color: hsl(219, 14%, 63%);
+}
+
+.red {
+  border: 2px solid hsl(1, 90%, 64%);
+  padding: 1px;
+  border-radius: 100%;
+  background-color: hsl(1, 90%, 64%);
+}
+
+.left {
+  width: 50%;
+  margin-left: 25px;
+  display: flex;
+}
+.left > button {
+  width: 25px;
+  margin-left: 10px;
+  color: white;
+  background-color: hsl(219, 85%, 26%);
+  border: none;
+  border-radius: 6px;
+}
+.right {
+  width: 50%;
+  margin-left: 420px;
+}
+.right > button {
+  color: hsl(219, 12%, 42%);
+  border: none;
+  background-color: white;
+}
+
+.mark {
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: hsl(210, 60%, 98%);
+}
+.mark > .image > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.mark > .webber {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.angela {
+  margin-top: 8px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: hsl(210, 60%, 98%);
+}
+.angela > .image1 > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.angela > .gray {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.jacob {
+  margin-top: 8px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: hsl(210, 60%, 98%);
+}
+.jacob > .image2 > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.jacob > .thompson {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.rizky {
+  margin-top: 8px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: white;
+}
+.rizky > .image3 > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.rizky > .hasanuddin {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.rizky > .hasanuddin > .msg {
+  margin-top: 8px;
+  border: 2px solid hsl(205, 33%, 90%);
+}
+.rizky > .hasanuddin > .msg > p {
+  margin: 5px 5px;
+}
+
+.kimberly {
+  margin-top: 8px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.left1 {
+  display: flex;
+}
+.smith {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.image5 > img {
+  width: 40px;
+  margin-left: 230px;
+  margin-top: 5px;
+}
+
+.image4 > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.kimberly > .smith {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.nathan {
+  margin-top: 8px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: hsl(0, 0%, 100%);
+}
+.nathan > .image6 > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.nathan > .peterson {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.anna {
+  margin-top: 8px;
+  margin-left: 25px;
+  margin-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  background-color: hsl(0, 0%, 100%);
+}
+.anna > .image7 > img {
+  width: 40px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.anna > .kim {
+  margin-left: 10px;
+  margin-top: 5px;
+}
